@@ -10,16 +10,7 @@
     }
   ],
   "description": "flat-ui-sass is a SASS port of Designmodo's Flat-UI Free",
-  "main": [
-    "vendor/assets/stylesheets/flat-ui.scss",
-    "vendor/assets/fonts/flat-ui/flat-ui-icons-regular.eot",
-    "vendor/assets/fonts/flat-ui/flat-ui-icons-regular.svg",
-    "vendor/assets/fonts/flat-ui/flat-ui-icons-regular.ttf",
-    "vendor/assets/fonts/flat-ui/flat-ui-icons-regular.woff",
-    "vendor/assets/javascripts/flat-ui.js",
-    "vendor/assets/javascripts/flatui-checkbox.js",
-    "vendor/assets/javascripts/flatui-radio.js"
-  ],
+  "main": "vendor/assets/stylesheets/flat-ui.scss",
   "keywords": [
     "flat-ui",
     "bootstrap",
